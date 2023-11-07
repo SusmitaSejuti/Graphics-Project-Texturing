@@ -1,0 +1,60 @@
+﻿  main.cpp
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\bed.h(9,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\bed.h(12,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\bed.h(13,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\bed.h(14,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\bed.h(15,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\bed.h(16,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\bed.h(37,60): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\bed.h(37,53): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\bed.h(37,46): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\bed.h(48,49): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\bed.h(59,49): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\bed.h(70,60): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\bed.h(70,53): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\bed.h(70,46): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\walls.h(13,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\walls.h(13,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\walls.h(13,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\swing.h(22,46): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\swing.h(28,46): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\swing.h(34,46): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\swing.h(16,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\swing.h(16,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\swing.h(16,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\stand.h(27,60): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\stand.h(27,55): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\stand.h(27,50): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\stand.h(15,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\stand.h(15,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\cylinderStand.h(26,60): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\cylinderStand.h(26,55): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\cylinderStand.h(26,50): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\cylinderStand.h(15,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\cylinderStand.h(15,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\sphere.h(170,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\sphere.h(171,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\sphere.h(173,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(83,5): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(570,57): warning C4101: 'rotateYMatrix_b1': unreferenced local variable
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(570,39): warning C4101: 'rotateXMatrix_b1': unreferenced local variable
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(570,75): warning C4101: 'rotateZMatrix_b1': unreferenced local variable
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1313,47): warning C4305: '-=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1314,52): warning C4305: '-=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1315,34): warning C4305: '-=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1317,75): warning C4305: '+=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1318,75): warning C4305: '-=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1319,75): warning C4305: '+=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1320,75): warning C4305: '-=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1321,75): warning C4305: '+=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1322,75): warning C4305: '-=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1323,71): warning C4305: '+=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1324,71): warning C4305: '-=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1325,71): warning C4305: '+=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1326,71): warning C4305: '-=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1327,71): warning C4305: '+=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1328,71): warning C4305: '-=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1332,29): warning C4305: '+=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1339,29): warning C4305: '+=': truncation from 'double' to 'float'
+J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\main.cpp(1346,29): warning C4305: '+=': truncation from 'double' to 'float'
+  Lighting.vcxproj -> J:\Final Year\4.2\Graphics lab\Projects\Amusement Park (2)\Amusement Park\x64\Debug\Lighting.exe
